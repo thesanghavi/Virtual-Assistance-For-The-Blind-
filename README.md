@@ -62,7 +62,7 @@ So, we proposed a Voice-based Email System using AI that will make the email sys
 <br>
 
 ## RESULTS :
-<b><a href="https://youtu.be/kbJEDQWIclQ">Click Here</a> to watch the project demonstration.<b>
+<b><a href="https://youtu.be/kbJEDQWIclQ">Click here</a> to watch the project demonstration.<b>
 
 
 
